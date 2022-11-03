@@ -1,1 +1,7 @@
-[![github stats](https://github-readme-stats.vercel.app/api?username=anvouk&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+Hi, I develop software for work and for fun.
+
+You can find me here:
+- [LinkedId](https://www.linkedin.com/in/andrea-vouk-a3159922a)
+- [My Website](https://andreavouk.com)
+- [GitLab](https://gitlab.com/anvouk)
+- [SourceHat](https://sr.ht/~anvouk)
