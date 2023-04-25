@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/andrea-vouk-a3159922a">
     <img src="https://img.shields.io/badge/-Andrea%20Vouk-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&color=black">
   </a>
@@ -13,4 +13,6 @@
   </a>
 </p>
 
+<p align="center">
 Hi, I develop software for work and for fun.
+</p>
