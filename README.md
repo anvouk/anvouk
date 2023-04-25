@@ -14,7 +14,7 @@
 </p>
 <p align="center">
   <a href="https://andreavouk.com/publickey.txt">
-    <img src="https://img.shields.io/badge/-7EF31D0AE9A2F0D2.com-white?style=for-the-badge&label=pgp&labelColor=darkgreen&color=black">
+    <img src="https://img.shields.io/badge/-7EF31D0AE9A2F0D2-white?style=for-the-badge&label=pgp&labelColor=darkgreen&color=black">
   </a>
 </p>
 
