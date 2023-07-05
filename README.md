@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/andrea-vouk-a3159922a">
+  <a href="https://www.linkedin.com/in/andrea-vouk">
     <img src="https://img.shields.io/badge/-Andrea%20Vouk-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&color=black">
   </a>
   <a href="https://github.com/anvouk">
